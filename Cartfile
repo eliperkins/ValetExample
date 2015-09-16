@@ -1,2 +1,2 @@
-github "eliperkins/valet" "carthage"
+github "square/valet" ~> 2.0
 
